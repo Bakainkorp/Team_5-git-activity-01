@@ -8,3 +8,5 @@ This is a repository for Team 5. The purpose of this activity is to practice con
 Team Members:
 Ryan Bautista
 Daniel Zabari
+Kendrick Shao
+Nelson Lim
